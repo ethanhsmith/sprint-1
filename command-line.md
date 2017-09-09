@@ -1,10 +1,10 @@
 Without using jargon, how would you explain the command line to a lay person?
 It's like giving commands to a dog, or a kid that actually listens.
 
-MKDIR
+MKDIR <p>
   Makes a new folder aka a directory with a specified name.
 
-TOUCH
+TOUCH <p>
   Makes a new file with a specified name e.g. hello.txt.
 
 CD
